@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Decentralized_Aadhaar-Enabled-Payment-System/static/css/main.6a93a275.css",
+    "main.js": "/Decentralized_Aadhaar-Enabled-Payment-System/static/js/main.8462fc07.js",
+    "static/js/453.031c2c08.chunk.js": "/Decentralized_Aadhaar-Enabled-Payment-System/static/js/453.031c2c08.chunk.js",
+    "index.html": "/Decentralized_Aadhaar-Enabled-Payment-System/index.html",
+    "main.6a93a275.css.map": "/Decentralized_Aadhaar-Enabled-Payment-System/static/css/main.6a93a275.css.map",
+    "main.8462fc07.js.map": "/Decentralized_Aadhaar-Enabled-Payment-System/static/js/main.8462fc07.js.map",
+    "453.031c2c08.chunk.js.map": "/Decentralized_Aadhaar-Enabled-Payment-System/static/js/453.031c2c08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a93a275.css",
+    "static/js/main.8462fc07.js"
+  ]
+}
