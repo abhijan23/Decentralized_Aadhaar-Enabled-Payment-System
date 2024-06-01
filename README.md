@@ -17,4 +17,12 @@
   <h2>Deployed Link:</h2>
   Click here to run my developed system (https://abhijan23.github.io/Decentralized_Aadhaar-Enabled-Payment-System/)
 </div>
+<div>
+  <h2>Want to run in your system?</h2>
 
+  ```
+    $ cd UI
+    $ cd daap-aeps
+    $ npm start
+  ```
+</div>
