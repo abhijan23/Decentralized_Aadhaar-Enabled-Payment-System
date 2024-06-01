@@ -3,7 +3,7 @@
   <h2>Prerequisite:</h2>
   <p>
     🫳Updated Browser<br>
-    🫳Metamask Wallet<br>
+    🫳Metamask Wallet Extension<br>
   </p>
 </div>
 <div>
