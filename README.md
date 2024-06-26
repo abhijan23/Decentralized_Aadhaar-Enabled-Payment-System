@@ -11,9 +11,6 @@
   <p>Aadhaar Enabled Payment System (AePS) is a bank-led system that allows customers to use their Aadhaar to access their bank accounts and perform basic banking transactions at a MicroATM.</p>
 </div>
 <div>
-  <h2>Objective:</h2>
-</div>
-<div>
   <h2>Deployed Link:</h2>
   Click here to run my developed system (https://abhijan23.github.io/Decentralized_Aadhaar-Enabled-Payment-System/)
 </div>
